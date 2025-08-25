@@ -8,7 +8,7 @@ repository = "https://thunderstore.io"
 namespace = "boxofbiscuits97"
 name = "ResultsSkip"
 description = "Allows the Host to skip the end results instead of waiting for other players to click continue."
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+websiteUrl = "https://github.com/Boxofbiscuits97/PEAK-ResultsSkip"
 containsNsfwContent = false
 
 [package.dependencies]
